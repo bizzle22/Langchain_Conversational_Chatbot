@@ -1,7 +1,8 @@
 # 🤖 Conversational AI Chatbot with Google Gemini and LangChain
 
 A powerful, conversational AI chatbot built with **Python**, leveraging **Google's Gemini** model via the **LangChain** framework.  
-The user interface is created with **Streamlit** for a seamless and interactive chat experience.  
+The user interface is created with **Streamlit** for a seamless and interactive chat experience.
+Link to Chatbot - http://ec2-13-55-157-78.ap-southeast-2.compute.amazonaws.com:8501/
 
 ---
 
